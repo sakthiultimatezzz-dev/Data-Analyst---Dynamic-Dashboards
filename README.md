@@ -4,6 +4,13 @@
 ##Dashboard 
 /Screenshots <img width="896" height="543" alt="image" src="https://github.com/user-attachments/assets/a82f312c-aff1-47c7-b19a-9a29bb2dacf3" />
 
+I developed an interactive Strategic Suite that centralizes these fragmented data points. By implementing a "Traffic Light" KPI system and dual-axis trend analysis, I enabled stakeholders to:
+# Instantly Identify Gaps: Compare actual achievement (ACH) against targets (TGT) at a global, country, or dealer level.
+
+# Track Growth Velocity: Use Year-over-Year (YoY) metrics to verify if market interventions are successfully driving sales.
+
+# Optimize Product Mix: Analyze "Brand Wise Units" to ensure the most popular models are prioritized in the correct regions.
+
 Executive Sales Overview: Provides a high-level summary of global sales performance, tracking 16,864 total units against a target of 17,805.
 
 15-Country APAC & Global Reach: Analyzes wholesale data across key markets including India, Vietnam, Australia, and Russia to identify regional growth trends.
