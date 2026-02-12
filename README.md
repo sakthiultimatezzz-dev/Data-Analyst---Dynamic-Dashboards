@@ -2,7 +2,8 @@
 📋 Automotive Sales Performance Dashboard (250cc - 500cc)
 
 ##Dashboard 
-/Screenshots <img width="896" height="543" alt="image" src="https://github.com/user-attachments/assets/a82f312c-aff1-47c7-b19a-9a29bb2dacf3" />
+/Screenshots <img width="864" height="542" alt="image" src="https://github.com/user-attachments/assets/b4c738c0-dbbd-4764-bdd5-a9fb87995d80" />
+
 
 # Scorecard
            
